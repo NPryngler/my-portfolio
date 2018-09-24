@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    
+}
+.App {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.container{
+    border: 2px solid black;
+}
+
+.container:hover{
+    background: black;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+  }
+
+a:hover{
+    text-decoration: underline;
+}

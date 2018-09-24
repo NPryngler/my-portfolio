@@ -1,0 +1,21 @@
+
+.icons-container{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.contact{
+
+}
+
+.logo {
+    max-width: 50px;
+    max-height: 50px;
+}
+
+.logo:hover{
+    max-width: 100px;
+    max-height: 100px;
+}
+

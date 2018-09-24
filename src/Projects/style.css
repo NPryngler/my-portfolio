@@ -1,0 +1,31 @@
+.projects-container{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+
+.project-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.preview {
+    width: 50%;
+    height: 50%;
+}
+.image{
+    width: 100%;
+    heigth: 100%;
+
+}
+.project-description{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    padding: 10px;   
+}
+.preview:hover{
+    width: 80%;
+    height: 80%; 
+}
