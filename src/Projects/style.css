@@ -1,4 +1,5 @@
 .projects-container{
+    width: 90%;
     display: flex;
     flex-flow: column wrap;
     justify-content: space-around;
@@ -9,23 +10,34 @@
     display: flex;
     justify-content: space-between;
     padding: 10px;
+    border: solid black 1px;
+    margin: 1em;
 }
 .preview {
-    width: 50%;
-    height: 50%;
+    width: 60%;
+    height: 60%;
 }
 .image{
-    width: 100%;
-    heigth: 100%;
+    width: 80%;
+    heigth: 80%;
 
 }
 .project-description{
+    width: 40%;
     display: flex;
     flex-flow: column wrap;
     justify-content: center;
     padding: 10px;   
 }
 .preview:hover{
-    width: 80%;
-    height: 100%; 
+    width: 70%;
+    height: 70%; 
+}
+.credit{
+    font-size: 10px;
+    text-align: start;
+}
+.bold{
+    font-weight: bold;
+    font-size: 21px;
 }

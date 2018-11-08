@@ -9,7 +9,6 @@ export default class Contact extends Component {
   render() {
     return (
       <div>
-        <h3>Find me</h3>
         <div className="icons-container">
           <div className='contact'>
             <a href="https://www.linkedin.com/in/natashapryngler/">
@@ -23,12 +22,8 @@ export default class Contact extends Component {
               <a href="mailto:natasha@pryngler.com">
                 <img className="logo" src={emailLogo}></img></a>
             </div>
-            <div className='contact'>
-            <a href="callto://+9172928120">
-              <img className="logo" src={phone}></img>
-            </a>
-            </div>
           </div>
+          <h3>Download my resume</h3>
         </div>
         )
       }

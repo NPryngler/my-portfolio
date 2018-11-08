@@ -3,10 +3,22 @@
     
 }
 .App {
-    max-width: 800px;
+    max-width: 100%;
     margin: 0 auto;
     text-align: center;
+}
+h1, h2, h3, h4 {
     font-family: 'Permanent Marker', cursive;
+    font-weight: 100;
+}
+h3{
+    padding: 1em;
+    border-bottom: dashed 1px black;
+    font-weight: 100;
+}
+
+p {
+    font-family: 'Aldrich', sans-serif;
 }
 
 .container{
@@ -25,3 +37,30 @@ a{
 a:hover{
     text-decoration: underline;
 }
+.section-header {
+    font-family: 'Permanent Marker', cursive;   
+}
+
+.nav-links {
+    border: 2px solid black;
+    text-align: center;
+    margin: 10px auto;
+    padding: 15px;
+  
+  }
+
+.link-wrapper {
+    display: inline;
+
+}
+.link{
+    text-decoration: none;
+    color: black;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.link:hover{
+    font-style: bold;
+    color:#008BF8;
+    text-decoration: none;
+  }
