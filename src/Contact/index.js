@@ -23,7 +23,7 @@ export default class Contact extends Component {
                 <img className="logo" src={emailLogo}></img></a>
             </div>
           </div>
-          <h3>Download my resume</h3>
+          <h3><a href="https://www.dropbox.com/s/v9092m9xzho138c/NATASHAPRYNGLER_resume.pdf?dl=0">Download my resume</a></h3>
         </div>
         )
       }

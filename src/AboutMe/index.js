@@ -27,6 +27,7 @@ export default class Other extends Component {
               <div className="skill">CSS</div>
               <div className="skill">Javascript</div>
               <div className="skill">React</div>
+              <div className="skill">Node.js</div>
               <div className="skill">Express</div>
               <div className="skill">Github</div>
               <div className="skill">Ruby </div>
