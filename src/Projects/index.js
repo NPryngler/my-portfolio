@@ -81,7 +81,7 @@ export default class Projects extends Component {
                             </div>
 
                             <div>
-                                <a href="https://git.generalassemb.ly/LifeH/project-3">
+                                <a href="https://github.com/NPryngler/my-vynil-collection">
                                     <img className="logo" src={gitHubLogo} ></img></a>
                             </div>
                         </div>
@@ -107,7 +107,7 @@ export default class Projects extends Component {
                                 <div className="skill">React</div>
                             </div>
                             <div>
-                                <a href="https://git.generalassemb.ly/NPryngler/project02-contract-generator">
+                                <a href="https://github.com/NPryngler/contract-generator-app">
                                     <img className="logo" src={gitHubLogo} ></img></a>
 
                             </div>
@@ -143,7 +143,7 @@ export default class Projects extends Component {
                             </div>
                         </div>
                         <div className="preview" >
-                            <a href="https://pages.git.generalassemb.ly/NPryngler/World-Trivia-Game">
+                            <a href="https://github.com/NPryngler/World-Trivia-Game">
                                 <img className="image" src={trivia} ></img>
                             </a>
                         </div>
