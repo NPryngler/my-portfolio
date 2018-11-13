@@ -49,7 +49,7 @@ export default class Projects extends Component {
                             </div>
 
                             <div>
-                                <a href="https://github.com/NPryngler/contract_management_app">
+                                <a href="https://github.com/NPryngler/contract-management-app">
                                     <img className="logo" src={gitHubLogo} ></img></a>
                             </div>
                         </div>
