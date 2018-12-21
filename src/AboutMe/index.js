@@ -39,7 +39,7 @@ export default class Other extends Component {
           <div className="section-container">
             <h3>Other Skills </h3>
               <div className="section-wrapper">
-                <p className="section-description">Some skills I have learned in my pre-developer life, while bootstrapping to build a <a className="weblink" href="https://www.alvespryngler.com/">law firm</a> and an <a className="weblink" href="https://easymob.com.vc">online businees for the real state market</a></p>
+                <p className="section-description">Some skills I have learned in my pre-developer life, while bootstrapping to build a <a className="weblink" href="https://www.alvespryngler.com/">law firm</a> and an <a className="weblink" href="https://easymob.com.vc">online businees for the real estate market</a></p>
               </div>
               <div className="skills-wrapper">
                 <div className="skill">SEO and Google Analytics Tools</div>

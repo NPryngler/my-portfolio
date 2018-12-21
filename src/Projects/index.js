@@ -2,13 +2,12 @@ import React, { Component } from 'react';
 import "./style.css";
 import trivia from '../images/trivia.png';
 import triviaGIF from '../images/trivia.gif';
-
 import gitHubLogo from '../images/github.png';
 import box from '../images/Box.png';
 import PopUp from '../PopUp';
 import movie from '../images/contract-generator.png';
 import vynil from '../images/my-vynil.gif';
-import contractApp from '../images/contract-app.gif';
+import contractApp from '../images/contract-management-app.png';
 import { Redirect } from 'react-router-dom';
 
 
@@ -63,11 +62,11 @@ export default class Projects extends Component {
                         <div className="project-description">
                             <h3 className="project-title">
                                 <a href="https://my-lp.herokuapp.com/">
-                                    My Vynil Collection</a>
+                                    My Vinyl Collection</a>
 
                             </h3>
                             <p>
-                                Collaboration project in which our team built a web application for users to track their favorite vynils and check other users favorite vynils.
+                                Collaboration project in which our team built a web application for users to track their favorite vinyls and check other users favorite vynils.
                             </p>
                             <h4>TOOLS</h4>
                             <div className="skills-wrapper">
